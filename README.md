@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Shobur</h1>
 <p align="left">I'm MERN Developer from Dhaka, Bangladesh, working in web development. I like to work with React JS and Love to solve problems and make to simple.</p>
-Skills: HTML,  CSS,   JavaScript,   TypeScript,    Bootstrap,  Tailwind,  ReactJS,  ReactBootstrap,  React Query,  Next JS,  Material UI,  daisyUI, ReactNative, Node JS, Express JS, Axios, MongoDB, JWT, Nodemailer, SendGrid, mailgun, Stripe JS, Redux, API.
+
+Skills: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, ReactJS, ReactBootstrap, React Query, Next JS, Material UI, daisyUI, Node JS, Express JS, Axios, MongoDB, JWT, Redux, API.
 
 ### :coffee: &emsp;Connect with me!
 
@@ -11,6 +12,8 @@ Skills: HTML,  CSS,   JavaScript,   TypeScript,    Bootstrap,  Tailwind,  ReactJ
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br>
 
 <br>
 
@@ -25,5 +28,7 @@ Skills: HTML,  CSS,   JavaScript,   TypeScript,    Bootstrap,  Tailwind,  ReactJ
 
 <br>
 <br>
+
 Credit: [Abdur Shobur](https://github.com/abdur-shobur)
+
 Last Edited on: 09/11/2022

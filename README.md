@@ -23,14 +23,7 @@ Skills: HTML,  CSS,   JavaScript,   TypeScript,    Bootstrap,  Tailwind,  ReactJ
 </a>
 </div>
 
-<div align="center">
-  <a href="https://abdur-shobur.github.io/abdur-shobur/">
-  <img  src="https://github.com/abdur-shobur/abdur-shobur/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <br>
-
+<br>
 Credit: [Abdur Shobur](https://github.com/abdur-shobur)
-
 Last Edited on: 09/11/2022

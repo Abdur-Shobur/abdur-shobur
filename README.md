@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Shobur</h1>
-<h3 align="center">I'm MERN Developer from Dhaka, Bangladesh, working in web development. I like to work with React JS and Love to solve problems and make to simple.</h3>
+<p align="center">I'm MERN Developer from Dhaka, Bangladesh, working in web development. I like to work with React JS and Love to solve problems and make to simple.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

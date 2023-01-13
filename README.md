@@ -25,6 +25,6 @@ Skills: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, ReactJS, ReactBo
 <br>
 <br>
 
-Credit: [Abdur Shobur](https://github.com/abdur-shobur)
+Credit: [Abdur Shobur](http://abdur-shobur-portfolio.web.app/)
 
 Last Edited on: 10/01/2023
